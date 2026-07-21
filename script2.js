@@ -38,12 +38,14 @@ const daftarKategori = [
     // --- KATEGORI PENGELUARAN (data-keluar) ---
     { id: "makan", nama: "Makanan & Minuman", ikon: "🍔", jenis: "data-keluar" },
     { id: "transport", nama: "Transportasi", ikon: "🚗", jenis: "data-keluar" },
+    { id: "parkir", nama: "Transportasi", ikon: "🚗", jenis: "data-keluar" },
     { id: "jajan", nama: "Jajan & Cemilan", ikon: "🍩", jenis: "data-keluar" },
     { id: "rutin", nama: "Tagihan Bulanan", ikon: "💵", jenis: "data-keluar" },
 
     // --- KATEGORI PEMASUKAN (data-masuk) ---
-    { id: "gaji", nama: "Gaji / Upah", ikon: "💼", jenis: "data-masuk" },
+    { id: "jajan", nama: "Uang Jajan", ikon: "💼", jenis: "data-masuk" },
     { id: "transfer", nama: "Kiriman / Transfer", ikon: "📱", jenis: "data-masuk" },
+    { id: "kuota", nama: "bayaran kuota", ikon: "📶", jenis: "data-masuk" },
     { id: "sampingan", nama: "Proyek / Freelance", ikon: "🖥️", jenis: "data-masuk" },
 
     // --- KATEGORI UMUM (Bisa muncul di dua-duanya atau kasih 'lainnya') ---
