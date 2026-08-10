@@ -38,7 +38,8 @@ const daftarKategori = [
     // --- KATEGORI PENGELUARAN (data-keluar) ---
     { id: "makan", nama: "Makanan & Minuman", ikon: "🍔", jenis: "data-keluar" },
     { id: "transport", nama: "Transportasi", ikon: "🚗", jenis: "data-keluar" },
-    { id: "parkir", nama: "Transportasi", ikon: "🚗", jenis: "data-keluar" },
+    { id: "parkir", nama: "Parkir", ikon: "🏍️", jenis: "data-keluar" },
+    { id: "bensin", nama: "Isi Bensin", ikon: "⛽", jenis: "data-keluar" },
     { id: "jajan", nama: "Jajan & Cemilan", ikon: "🍩", jenis: "data-keluar" },
     { id: "kas", nama: "Tagihan Kas", ikon: "💵", jenis: "data-keluar" },
 
